@@ -1,1 +1,1 @@
-# Javascript-Renk-Yakalama-Oyunu
+# Javascript Renk Yakalama Oyunu
